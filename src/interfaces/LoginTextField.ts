@@ -1,3 +1,4 @@
+
 //Login TextField
 
 export type LoginDetails={
@@ -42,4 +43,13 @@ export type ProductTypeStyle={
 export type FeedbackCardStyle={
     name:string,
     feedBack:string
+}
+
+//Footer Social 
+export type FooterSocialStyle={
+    path:string
+    company:string,
+    help:string,
+    faq:string,
+    resources:string
 }

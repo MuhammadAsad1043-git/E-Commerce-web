@@ -9,7 +9,7 @@ const RatingExample: React.FC = () => {
     <div className=" flex items-center gap-3">
       {/* Rating Component */}
       <Rating
-        style={{ maxWidth: 80 }}
+        style={{ maxWidth: 75 }}
         value={rating}
         onChange={setRating}
         readOnly={false}
