@@ -10,22 +10,22 @@ export const FooterDetails:FooterSocialStyle[]=[{
 {
     path:"/images/facebook.png",
     company:"Features",
-    faq:"manage Deliveries",
+    faq:"Payments",
     help:"Delivery Details",
-    resources:"Development Tutorial"
+    resources:"How to -Blog"
 },
 {
     path:"/images/instragram.png",
     company:"Works",
     faq:"Orders",
     help:"Terms & Conditions",
-    resources:"How to -Blog"
+    resources:"Yputube Playlist"
 },
 {
     path:"/images/github.png",
     company:"Career",
-    faq:"Payments",
+    faq:"manage Deliveries",
     help:"Privacy Policy",
-    resources:"Yputube Playlist"
+    resources:"Development Tutorial"
 },
 ]
